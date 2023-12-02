@@ -1,0 +1,27 @@
+body {
+    background-color: cyan;
+}
+h1 {
+    text-align: center;
+    font-style: italic;
+    color: blue;
+}
+h2 {
+    text-align: center;
+}
+.bold {
+    font-weight: bold;
+}
+.boldunderline {
+    font-weight: bold;
+    text-decoration-line: underline;
+}
+.silver {
+    color: hsl(0, 0%, 75%);
+}
+.fuchsia {
+    color: #FF00FF;
+}
+.brightorange {
+    color: rgb(255, 165, 0);
+}
